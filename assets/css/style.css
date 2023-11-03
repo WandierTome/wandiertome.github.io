@@ -188,7 +188,7 @@
 
 /***  Mobile  ***/
 
-@media(max-width: 450px) {
+@media(max-width: 850px) {
 
     #container {
         flex-direction: column;
